@@ -97,7 +97,7 @@ const CreateMahasiswaForm: React.FC<CreateMahasiswaFormProps> = ({ onClose }) =>
           Angkatan
         </label>
         <input
-          id="angkatan"
+          id="angkata"
           type="text"
           placeholder="2023"
           {...formik.getFieldProps('angkatan')}
